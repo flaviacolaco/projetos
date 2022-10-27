@@ -18,18 +18,17 @@
 	</header>
 
     <div class="texto-principal" >
-        <h1>Formadores em Ação - Programação Ensino Médio</h1>
+        <h1>JÚPITER</h1>
         <img id="imagem-principal" src="formadores-2022.png">
 
-        <h2>O grupo de <b>Estudos de Formadores em Ação</b> tem como objetivo fornecer uma formação
-                continuada para os profissionais de educação da Rede Estadual</h2>
-        <p>Nós fazemos parte do <u>Edutech</u>, que é um programa que ensina alunos e alunas da rede a
-              aprenderem uma nova habilidade: programar!</p>
-        <p>Participantes do Grupo: Marcelo Paludetto (Alura), Olivia (Alura), Professores e professoras (SEED)</p>
+        <h2>Nós somos um grupo de <b> de estudantes</b> de pensamento computacional
+	com 5 alunos,sendo eles: Mateus, Edeline, Flavia, tamilly e grazielli</h2>
+        <p>temos todos 15 anos,e moramos em Antonio Olinto <p>
+        
     </div>
 
   <div class="lista">
-      <h2>Benefícios de participar do grupo de estudos</h2>
+      <h2></h2>
       <ul>
         <li class="itens">Conhecer os professores e as professoras da SEED</li>
         <li class="itens">Resolver dúvidas em grupo</li>
